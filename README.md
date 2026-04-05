@@ -156,7 +156,7 @@ document.getElementById("btn4").onclick = submitForm;
 
 // GLOBAL BAN LIST
 const globalBanned = {
-    "foxysbestfriend": "1475778804709331048",
+    "official_godplayz": "1271993448488239199",
     "galaxy011756": "1473356679734104177",
     "lostrbxofficial": "1460360628924317888"
 };
